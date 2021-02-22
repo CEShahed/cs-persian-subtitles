@@ -1,4 +1,4 @@
-# CS-related video subtitles for persian
+# CS-related video subtitles for persian people
 
 # who invented A.I ?
 `codefusion-ai-1.srt`
