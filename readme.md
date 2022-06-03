@@ -20,3 +20,9 @@
   * name(en): How does artificial intelligence learn?
   * filename: `TED-ed-how-does-AI-learn.srt`
   * [video link](https://www.youtube.com/watch?v=0yCJMt9Mx9c)
+
+4.
+  * name(fa): خنگ ترین آدم توی اتاق باش
+  * name(en): Be the stupidest person in the room
+  * filename: `be_the_stupidest_person_in_the_room.srt`
+  * [video link](https://www.youtube.com/watch?v=BkLzo_oNVho)
