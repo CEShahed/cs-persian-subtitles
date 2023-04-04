@@ -33,3 +33,12 @@
   * name(en): What Is Machine Learning and How Does It Work? 
   * filename: `what-is-machine-learning-and-how-does-it-work.srt`
   * [video link](https://www.youtube.com/watch?v=xr5LeWKbVnY)
+  
+  
+6.
+  * name(fa): کارگر ساختمونی که عاشق دختر شاه میشه 
+  * name(en): a construction worker who wanted to marry princess
+  * filename: `a-construction-worker-who-wanted-to-marry-princess.srt`
+  * [youtube](https://www.youtube.com/watch?v=qNEKkmrOSyg)
+  * [aparat](https://www.aparat.com/v/9j1MH)
+  
