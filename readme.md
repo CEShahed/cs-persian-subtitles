@@ -41,4 +41,10 @@
   * filename: `a-construction-worker-who-wanted-to-marry-princess.srt`
   * [youtube](https://www.youtube.com/watch?v=qNEKkmrOSyg)
   * [aparat](https://www.aparat.com/v/9j1MH)
-  
+
+7.
+  * name(fa): داستان بازگشت خنده دار - یک استرالیایی مسلمان میشود
+  * name(en): Laughable Revert Story: Aussie Embraces Islam
+  * filename: `Aussie-embraces-Islam.srt`
+  * [youtube](youtube.com/watch?v=Q9jKGjX0dMc)
+  * [aparat](https://www.aparat.com/v/xb4hX)
