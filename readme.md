@@ -46,5 +46,5 @@
   * name(fa): داستان بازگشت خنده دار - یک استرالیایی مسلمان میشود
   * name(en): Laughable Revert Story: Aussie Embraces Islam
   * filename: `Aussie-embraces-Islam.srt`
-  * [youtube](youtube.com/watch?v=Q9jKGjX0dMc)
+  * [youtube](https://youtube.com/watch?v=Q9jKGjX0dMc)
   * [aparat](https://www.aparat.com/v/xb4hX)
